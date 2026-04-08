@@ -9,7 +9,7 @@
 
 ## About me
 
-I'm a second-semester cybersecurity student at San Diego City College, building toward a career in SOC environments and analyst roles. My background is unconventional releative to most people in my field. I finished a B.S. in Public Health at SDSU before pivoting to security. That path turned out to be an asset: healthcare is one of the most targeted sectors in threat intelligence, and my two years enforcing IRB data governance and patient confidentiality protocols gave me a real appreciation for what's at stake when data controls fail. 
+I'm a Cyber-Security major wrapping up my associate's degree and working towards my bachelor's at San Diego City College, building toward a career in SOC environments and analyst roles. My background is unconventional releative to most people in my field, as I finished a B.S. in Public Health at SDSU before pivoting to security. I believe my path to be reflective of my end goal; working as a Healthcare Cybersecurity professional. Healthcare is one of the most targeted sectors in threat intelligence, and when attacks against hospitals succeed, vulnerable people are threatened. My two years enforcing IRB data governance and patient confidentiality protocols, as well as participant recruitment at the SDSU Research Foundation has given me a deep appreciation for what is at stake when confidential healthcare data is compromised. I believe securing the confidentiality, integrity, and availability of healthcare data to be an important matter of public good. 
 
 Outside of coursework I run a homelab environment where I maintain a Security Onion SIEM, an ELK stack, and containerized services via Docker. I learn best through this kind of hands on experience, build something, break it, fix it. 
 
