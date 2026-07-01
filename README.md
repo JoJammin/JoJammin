@@ -12,7 +12,7 @@ I'm a Cyber-Security major and an incoming junior in San Diego City College's ne
 
 I'm currently building skills for Network Engineering and Security Operations Center analysis, with Cloud Security Engineering on the horizon. My background is unconventional relative to most people in my field, as I finished a B.S. in Public Health at SDSU before pivoting to Cyber-Security. I believe my path to be reflective of my end goal; working as a Healthcare Cybersecurity professional. Given that more and more hospitals are migrating to cloud based infrastructure year by year, I believe I'll best be able to serve them by meeting them at their destination as a skilled Cloud Security Engineer. Given that the modern threat model for the real world involves AI powered vulnerability enumeration and attacks against systems, I'm also deepening making sure to deepen my skill-set in this emerging technology. Ignoring AI is not an option for the field of Cybersecurity, it is important to have a skillset and understanding of the tools working against you, especially when those same tools can serve you just as well.
 
-**Projects**
+### Projects
 
 ### Home network vulnerability assessment `Complete`
 Credentialed scan of my home network using Tenable Nessus Professional and Nmap on Parrot OS. Identified and remediated two findings: SMB signing not required (CVSS 5.3) and remote IP forwarding enabled on the Proxmox hypervisor (CVSS 6.5). Produced a formal vulnerability report and remediation plan. Scored 200/200.
