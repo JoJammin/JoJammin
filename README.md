@@ -1,6 +1,6 @@
 
 # Josh Higgins
-**Cybersecurity student · Blue team & SOC focus · San Diego, CA**
+**Cybersecurity student · Network and Cloud Security Engineering · San Diego, CA**
 
 ![Security+](https://img.shields.io/badge/CompTIA_Security%2B-Anticipated_2026-blue)
 ![Student](https://img.shields.io/badge/B.S._Cyber_Defense-SDCC_2028-teal)
@@ -9,39 +9,21 @@
 
 ## About me
 
-I'm a Cyber-Security major wrapping up my associate's degree and working towards my bachelor's at San Diego City College, building toward a career in SOC environments and analyst roles. My background is unconventional releative to most people in my field, as I finished a B.S. in Public Health at SDSU before pivoting to security. I believe my path to be reflective of my end goal; working as a Healthcare Cybersecurity professional. Healthcare is one of the most targeted sectors in threat intelligence, and when attacks against hospitals succeed, vulnerable people are threatened. My two years enforcing IRB data governance and patient confidentiality protocols, as well as participant recruitment at the SDSU Research Foundation has given me a deep appreciation for what is at stake when confidential healthcare data is compromised. I believe securing the confidentiality, integrity, and availability of healthcare data to be an important matter of public good. 
+I'm a Cyber-Security major and an incoming junior in San Diego City College's new baccalaureate program for Cyber Defense & Analysis. I'm a proud member of its third ever cohort.
 
-Outside of coursework I run a homelab environment where I maintain a Security Onion SIEM, an ELK stack, and containerized services via Docker. I learn best through this kind of hands on experience, build something, break it, fix it. 
+I'm currently building skills for Network Engineering and Security Operations Center analysis, with Cloud Security Engineering on the horizon. My background is unconventional relative to most people in my field, as I finished a B.S. in Public Health at SDSU before pivoting to Cyber-Security. I believe my path to be reflective of my end goal; working as a Healthcare Cybersecurity professional. Given that more and more hospitals are migrating to cloud based infrastructure year by year, I believe I'll best be able to serve them by meeting them at their destination as a skilled Cloud Security Engineer. Given that the modern threat model for the real world involves AI powered vulnerability enumeration and attacks against systems, I'm also deepening making sure to deepen my skill-set in this emerging technology. Ignoring AI is not an option for the field of Cybersecurity, it is important to have a skillset and understanding of the tools working against you, especially when those same tools can serve you just as well.
 
----
-
-## Projects
 
 ### Home network vulnerability assessment `Complete`
-Credentialed SSH scan of my home network using Tenable Nessus Professional and Nmap on Parrot OS. Identified and remediated two findings: SMB signing not required (CVSS 5.3) and remote IP forwarding enabled on the Proxmox hypervisor (CVSS 6.5). Produced a formal vulnerability report and remediation plan. Scored 200/200.
+Credentialed scan of my home network using Tenable Nessus Professional and Nmap on Parrot OS. Identified and remediated two findings: SMB signing not required (CVSS 5.3) and remote IP forwarding enabled on the Proxmox hypervisor (CVSS 6.5). Produced a formal vulnerability report and remediation plan. Scored 200/200.
 
 `Nessus Professional` `Nmap` `Parrot OS` `CVSS` `Formal reporting`
 
 ---
 
-### Threat intelligence lookup tool `In progress`
-CLI tool written in Python that queries the VirusTotal API for IP reputation data, malicious/suspicious vote counts, engine detections, and threat tags. Supports single and batch IP input.
-
-`Python` `VirusTotal API` `argparse` `requests` `JSON parsing`
-
----
-
-### Web application security audit `In progress`
-Student-level security audit for a client using OWASP Top 10 methodology. Completed Phase 1: implemented Content Security Policy and individual security headers, remediating XSS and clickjacking vulnerabilities. We're currently in Phase 2: Reiterating a secondary scan to account for newly deployed features, and assessing the client's embedded AI features for prompt injection exposure.
-
+### Web application security audit `Complete`
+Student-level security audit for a client using OWASP Top 10 Methodolody. Implemented Content Security Policy and individual security headers, remediated XSS and clickjacking vulnerabilities. Remediated a configuration error that resulted in an exposed API key and system prompt for the website's embedded AI interface. 
 `OWASP ZAP` `Burp Suite` `CSP` `OWASP Top 10`
-
----
-
-### Homelab — Security Onion SIEM `In progress`
-Deployed Security Onion on a laptop baremetal. Currently configuring the ELK stack for log ingestion and building toward a lab environment where I'll host intentionally vulnerable web apps and generate real traffic to monitor with the SIEM. IDS/IPS features active.
-
-`Security Onion` `ELK Stack` `Proxmox VE` `Docker` `Log analysis`
 
 ---
 
@@ -54,13 +36,15 @@ Deployed Security Onion on a laptop baremetal. Currently configuring the ELK sta
 | Wireshark | Proxmox VE | Git / GitHub | SIEM & log analysis |
 | OWASP ZAP | Docker | | OWASP Top 10 |
 | Burp Suite | Windows | | IRB data governance |
-| Nmap | | | |
+| Nmap | AI Prompt Engineering | AI Delegation, Description, Discernment & Dilligence|
 
 ---
 
 ## Certifications
 
-- **CompTIA Security+ SY0-701** — anticipated June 2026
+- **Cisco CCNA 200-301** — Anticipated 2026
+- **COMPTIA SYO-701 Security +** - Anticipated 2026
+- **Anthropic Claude 101 & AI Fluency: Framework and Foundations** - June 2026
 - **Certificate of Performance: Desktop Support Technician I** — San Diego City College
 
 ---
