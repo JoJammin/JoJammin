@@ -28,7 +28,7 @@ Student-level security audit for a client using OWASP Top 10 Methodolody. Implem
 
 ---
 ### National Cyber League Socal Cyber Cup `First Place`
-Competed in NCL's Socal Cyber Cup game, a two round competition which involved defending a live linux server environment from automated attacks, I remediated a SQL database vulnerability and then performed red-team offensive security operations against an identical server to score significant points for our time, which resulted in our team claiming first place at the collegiate level for the competition.
+Competed in NCL's Socal Cyber Cup game, a two round competition which involved defending a live linux server environment from automated attacks. I performed administrative security actions(changing default credentials, closing open ports that did not need to be open, disabling root access on the server) and remediated a SQL database vulnerability. Following that, I performed red-team offensive security operations against an identical server to score significant points for our time, which resulted in our team claiming first place at the collegiate level for the competition.
 
 ## Skills
 
