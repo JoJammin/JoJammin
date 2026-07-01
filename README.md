@@ -2,7 +2,7 @@
 # Josh Higgins
 **Cybersecurity student · Network and Cloud Security Engineering · San Diego, CA**
 
-![Security+](https://img.shields.io/badge/CompTIA_Security%2B-Anticipated_2026-blue)
+![CCNA](https://img.shields.io/badge/CompTIA_Security%2B-Anticipated_2026-blue)
 ![Student](https://img.shields.io/badge/B.S._Cyber_Defense-SDCC_2028-teal)
 
 ---
