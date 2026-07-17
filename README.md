@@ -15,6 +15,12 @@ I'm currently building skills for Network Engineering and Security Operations Ce
 ### Projects
 ---
 
+### Careshield AI 'Complete'
+Developed a tool intended to serve healthcare clinics in underserved communities. Ingests data from nmap and server logs, provides a risk score and severity rating. Claude API is connected to provide plain-language analysis for non-technical healthcare professionals. 
+
+---
+
+
 ### Home network vulnerability assessment `Complete`
 Credentialed scan of my home network using Tenable Nessus Professional and Nmap on Parrot OS. Identified and remediated two findings: SMB signing not required (CVSS 5.3) and remote IP forwarding enabled on the Proxmox hypervisor (CVSS 6.5). Produced a formal vulnerability report and remediation plan. Scored 200/200.
 
