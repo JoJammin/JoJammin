@@ -15,7 +15,7 @@ I'm currently building skills for Network Engineering and Security Operations Ce
 ### Projects
 ---
 
-### Careshield AI 'Complete'
+### Careshield AI `Complete`
 Developed a tool intended to serve healthcare clinics in underserved communities. Ingests data from nmap and server logs, provides a risk score and severity rating. Claude API is connected to provide plain-language analysis for non-technical healthcare professionals. 
 
 ---
